@@ -1,0 +1,130 @@
+<html>
+	<head>
+		<title>輔仁大學校友資料庫系統</title>
+		<meta charset="TW" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+	</head>
+	<body>
+		<!-- Header -->
+		<header id="header">
+			<div class="inner">
+				<a href="首頁.html" class="logo"><font size="6pt"onmouseout="this.style.color = 'ffffff';" onmouseover="this.style.color = 'cce0e8';">輔仁大學校友資料庫系統</font></a>
+				<nav id="nav">
+					<a href="首頁.html"><font size="5pt"onmouseout="this.style.color = 'ffffff';" onmouseover="this.style.color = 'cce0e8';" style="color:#003366">首頁</font></a>
+					<a href="服務功能.html"><font size="5pt"onmouseout="this.style.color = 'ffffff';" onmouseover="this.style.color = 'cce0e8';" style="color:#003366">服務功能</font></a>
+					<a href="新增資料.html"><font size="5pt"onmouseout="this.style.color = 'ffffff';" onmouseover="this.style.color = 'cce0e8';" style="color:#003366">新增資料</font></a>
+					<a href="常見問題.html"><font size="5pt"onmouseout="this.style.color = 'ffffff';" onmouseover="this.style.color = 'cce0e8';" style="color:#003366">常見問題</font></a>
+					<a href="給本站打打氣.html"><font size="5pt"onmouseout="this.style.color = 'ffffff';" onmouseover="this.style.color = 'cce0e8';" style="color:#003366">給本站打打氣</font></a>
+				</nav>
+				
+				<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				
+			</div>
+		</header>
+		<!-- Banner -->
+		<section id="banner">
+			<h1> </h1>
+			
+		</section>
+		
+		<!-- Two -->
+		<section id="two" class="wrapper style1 special">
+			<div class="inner">
+				<header>
+					
+				</header>
+				<div class="flex flex-5">
+					<div class="box person">
+						
+						<i class="fa fa-list-ol fa-5x" ></i>
+						<a href="校友資料庫系統_畢業生更新步驟.doc" target="_blank"><h3>畢業生離校</br>校友資料庫系統<br>更新步驟說明</h3></a>
+					</div>
+					<div class="box person">
+						<i class="fa fa-usd fa-5x" aria-hidden="true"></i>
+						<a href="http://www.pro.fju.edu.tw/services03.asp"><h3>贊助母校</h3></a>
+					</div>
+					<div class="box person">
+						<i class="fa fa-question fa-5x" aria-hidden="true"></i>
+						<a href="http://questionary.dsa.fju.edu.tw/gradsurvey/"><h3>畢業生流向<br>問卷調查</h3></a>
+					</div>
+					<div class="box person">
+						<i class="fa fa-file-text fa-5x"></i>
+						<a href="輔仁大學校友資料庫使用單位申請表.doc"><h3>使用單位<br>申請表</h3></a>
+					</div>
+					<div class="box person">
+						<i class="fa fa-leanpub fa-5x" aria-hidden="true"></i>
+						<a href="校友資料庫使用手冊.PDF"><h3>校友資料庫<br>使用手冊</h3></a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Three -->
+		<section id="three" class="wrapper special">
+			<div class="inner">
+				<header class="align-center">
+					
+				</header>
+				<div class="flex flex-2">
+					<article>
+						<div class="image fit">
+							<img src="畢業生.jpg" alt="Pic 01" />
+						</div>
+						<form method="post" action="#">
+							<div class="row uniform">
+								<div class="3u 12u$(small)">
+									<h3>校友搜尋</h3>
+									
+								</div>
+								<div class="6u 12u$(small)">
+									
+									<input type="text" name="請輸入學號或姓名" id="query" value="" placeholder="請輸入學號或姓名" />
+								</div>
+								<div class="3u$ 12u$(small)">
+									<input type="submit" value="Search" class="fit" />
+								</div>
+							</div>
+						</form>
+						<p>校友可在上列輸入自己部份姓名或學號後，進行檢視或修改自己資料。</p>
+					</article>
+					<article>
+						<h3>公告&nbsp;尋人&nbsp;求才</h3>
+						<marquee height="200" width="800" behavior="SCROLL" direction="UP" scrollamout="10" scrolldelay="200">
+						<a href="http://alumni.fju.edu.tw/news/index.asp?method=view&newsnum=202" target="_blank"><font color="red">[求才]</font>耀鴻縫製機械企業有限公司徵西文業務</a><br>
+						<a href="http://alumni.fju.edu.tw/news/index.asp?method=view&newsnum=201" target="_blank"><font color="red">[求才]</font>鑫廷織品開發股份有限公司研發助理</a><br>
+						<a href="http://alumni.fju.edu.tw/news/index.asp?method=view&newsnum=200" target="_blank"><font color="red">[求才]</font>新莊陳曦數學文理語文補習班</a><br>
+						<a href="http://alumni.fju.edu.tw/news/index.asp?method=view&newsnum=199" target="_blank"><font color="red">[求才]</font>可恩迪股份有限公司徵Merchandiser</a><br>
+						<a href="http://alumni.fju.edu.tw/news/index.asp?method=view&newsnum=198" target="_blank"><font color="red">[求才]</font>可恩迪股份有限公司徵女裝運動服設計師</a><br>
+						<a href="http://alumni.fju.edu.tw/news/index.asp?method=view&newsnum=197" target="_blank"><font color="red">[求才]</font>可恩迪股份有限公司徵毛衣女裝設計師</a><br>
+						<a href="http://alumni.fju.edu.tw/news/index.asp?method=view&newsnum=190" target="_blank"><font color="red">[公告]</font>2016年暑假作息公告</a><br>
+						<a href="http://alumni.fju.edu.tw/news/index.asp?method=view&newsnum=189" target="_blank"><font color="red">[公告]</font>校友證件與成績查詢暫定公告</a><br>
+						<a href="http://alumni.fju.edu.tw/news/index.asp?method=view&newsnum=188" target="_blank"><font color="red">[求才]</font>紅蘿蔔工業股份有限公司徵才三</a><br>
+						<a href="http://alumni.fju.edu.tw/news/index.asp?method=view&newsnum=187" target="_blank"><font color="red">[求才]</font>紅蘿蔔工業股份有限公司徵才二</a><br>
+						</marquee>
+					</article>
+				</div>
+			</div>
+		</section>
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="inner">
+				<div class="flex">
+					<div class="copyright">
+						<p>系統開發單位：&nbsp;輔仁大學統計資訊學系
+							</br>系統維護單位：&nbsp;資訊中心
+							</br>系統管理單位：&nbsp;公共事務室&nbsp;&nbsp;電話：&nbsp;29052211
+							</br>系統指導老師：&nbsp;梁德馨教授
+							</br>MAIL：&nbsp;<a href = "mailto:alumni@mail.fju.edu.tw">公共事務室信箱</a></p>
+						</div>
+						
+					</div>
+				</div>
+			</footer>
+			<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+		</body>
+	</html>

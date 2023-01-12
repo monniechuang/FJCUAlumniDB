@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>常見問題</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+		<!-- Header -->
+		<header id="header">
+			<div class="inner">
+				<a href="首頁.html" class="logo"><font size="5pt">輔仁大學校友資料庫系統</font></a>
+				<nav id="nav">
+					<a href="首頁.html"><font size="3pt">首頁</font></a>
+					<a href="服務功能.html"><font size="3pt">服務功能</font></a>
+					<a href="新增資料.html"><font size="3pt">新增資料</font></a>
+					<a href="常見問題.html"><font size="4pt">常見問題</font></a>
+					<a href="給本站打打氣.html"><font size="3pt">給本站打打氣</font></a>
+					
+				</nav>
+				
+				<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+			</div>
+
+		</header>
+
+			<br>
+			
+		<!-- One -->
+		
+		<section id="three" class="wrapper special">
+				<div class="inner">
+					<header class="align-center">
+						<h2>常見問題集</h2>
+					</header>
+					
+						
+                      <div class="row">
+						<div class="3u 12u$(medium)">
+						<p>
+						</p>
+													
+						</div>
+						<div class="9u$ 12u$(medium)">
+							<p align="left"><a href="常見問題1.html" class="button special">Q1</a>&nbsp;&nbsp;<font size="4pt">各系所權限為何？ 有何功能可以使用？</font></p>
+							<p align="left"><a href="常見問題2.html" class="button special">Q2</a>&nbsp;&nbsp;<font size="4pt">為何需要向系統申請密碼？ 及填寫出生年月日與電子郵件信箱</font></p>
+							<p align="left"><a href="常見問題3.html" class="button special">Q3</a>&nbsp;&nbsp;<font size="4pt">系所資料屆數、入學年資料不正確？</font></p>
+							<p align="left"><a href="常見問題4.html" class="button special">Q4</a>&nbsp;&nbsp;<font size="4pt">大宗郵件標籤(一般式) 的使用方法？</font></p>
+							<p align="left"><a href="常見問題5.html" class="button special">Q5</a>&nbsp;&nbsp;<font size="4pt">大宗郵件標籤(橫列式) 的使用方法？</font></p>
+							<p align="left"><a href="常見問題6.html" class="button special">Q6</a>&nbsp;&nbsp;<font size="4pt">如何申請同屆同學的聯絡方式？</font></p>
+							<p align="left"><a href="常見問題7.html" class="button special">Q7</a>&nbsp;&nbsp;<font size="4pt">修改資料時一併修改資料庫中存在的相似記錄？</font></p>
+							<p align="left"><a href="常見問題8.html" class="button special">Q8</a>&nbsp;&nbsp;<font size="4pt">為何還未收到我的密碼申請信？</font></p>
+							<p align="left"><a href="常見問題9.html" class="button special">Q9</a>&nbsp;&nbsp;<font size="4pt">系統無法登入？ 一直顯示帳號密碼錯誤？</font></p>
+							<p align="left"><a href="常見問題10.html" class="button special">Q10</a>&nbsp;&nbsp;<font size="4pt">秘書的「查詢小技巧」？</font></p>
+						</div>						
+					</div>
+				</div>
+			</section>
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="inner">
+				<div class="flex">
+					<div class="copyright">
+						<p>系統開發單位：&nbsp;輔仁大學統計資訊學系
+							</br>系統維護單位：&nbsp;資訊中心
+							</br>系統管理單位：&nbsp;公共事務室&nbsp;&nbsp;電話：&nbsp;29052211
+							</br>系統指導老師：&nbsp;梁德馨教授
+							</br>系統開發者：&nbsp;廖建翔
+							</br>MAIL：&nbsp;<a href = "mailto:alumni@mail.fju.edu.tw">公共事務室信箱</a></p>
+						</div>
+						
+					</div>
+				</div>
+			</footer>
+			<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+		</body>
+	</html>

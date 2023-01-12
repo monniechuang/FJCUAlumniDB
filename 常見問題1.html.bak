@@ -1,0 +1,144 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>常見問題 > 問題1</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+		<!-- Header -->
+		<header id="header">
+			<div class="inner">
+				<a href="首頁.html" class="logo"><font size="5pt">輔仁大學校友資料庫系統</font></a>
+				<nav id="nav">
+					<a href="首頁.html"><font size="3pt">首頁</font></a>
+					<a href="服務功能.html"><font size="3pt">服務功能</font></a>
+					<a href="新增資料.html"><font size="3pt">新增資料</font></a>
+					<a href="常見問題.html"><font size="4pt">常見問題</font></a>
+					<a href="給本站打打氣.html"><font size="3pt">給本站打打氣</font></a>
+					
+				</nav>
+				
+				<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+			</div>
+
+		</header>
+
+			
+		
+			
+		<!-- One -->
+		<section id="one" class="wrapper">
+			<div class="inner">
+			<header align="center"><h2><font size="5pt" color="#003366">問題1 各系所權限為何？ 有何功能可以使用？
+
+</font></h2></header>
+				<div class="flex flex-2">
+
+                    
+					<article align="center">
+					<header><h3><font size="5pt" color="">目前功能</font></h3></header>
+					    <table>
+					    <tr>
+							<td><h4>探索<br>專業人才</h4>
+							<i class="fa fa-search fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+							<td><h4>代辦<br>校友證件</h4>
+							<i class="fa fa-user fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+							<td><h4><font size="2pt">查詢/列印/郵寄</font> 校友名單</h4>
+							<i class="fa fa-list-ul fa-5x" aria-hidden="true"></i></i>
+							<br>
+							<br></td>
+							<td><h4>舉辦校友<br>活動</h4>
+							<i class="fa fa-graduation-cap fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+							<td><h4>查看<br>申請聯絡</h4>
+							<i class="fa fa-phone fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+					    </tr>
+						<br>
+					    <tr>
+							<td><h4>自設<br>搜尋條件</h4>
+							<i class="fa fa-question-circle fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+							<td><h4>查看<br>申請密碼</h4>
+							<i class="fa fa-expeditedssl fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+							<td><h4>統計報表<br><br></h4>
+							<i class="fa fa-bar-chart fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+							<td><h4>開放離校<br>手續</h4>
+							<i class="fa fa-pencil-square-o fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+							<td><h4>舉辦<br>線上報名</h4>
+							<i class="fa fa-cloud fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+					    </tr>
+					    <tr>
+							<td><h4>進階查詢<br><br></h4>
+							<i class="fa fa-lightbulb-o fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+							<td><h4>寄發<br>全校信件</h4>
+							<i class="fa fa-envelope-o fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+							<td><h4>新增<br>資料審核</h4>
+							<i class="fa fa-folder-open-o fa-5x" aria-hidden="true"></i>
+							<br>
+							<br></td>
+							<td></td>
+							<td></td>
+					    </tr>
+					    </table>
+						
+					</article>
+					<article align="center">
+						<header>
+							<h3><font size="5pt" color="">系統權限</font></h3>
+							<img src="images/Q1.gif">
+							<br>
+							<br>
+						</header>
+						
+						
+					</article>
+					
+				</div>
+			</div>
+		</section>
+		
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="inner">
+				<div class="flex">
+					<div class="copyright">
+						<p>系統開發單位：&nbsp;輔仁大學統計資訊學系
+							</br>系統維護單位：&nbsp;資訊中心
+							</br>系統管理單位：&nbsp;公共事務室&nbsp;&nbsp;電話：&nbsp;29052211
+							</br>系統指導老師：&nbsp;梁德馨教授
+							</br>系統開發者：&nbsp;廖建翔
+							</br>MAIL：&nbsp;<a href = "mailto:alumni@mail.fju.edu.tw">公共事務室信箱</a></p>
+						</div>
+						
+					</div>
+				</div>
+			</footer>
+			<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+		</body>
+	</html>
